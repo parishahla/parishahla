@@ -5,7 +5,7 @@
 <b>
  <p align="center">
 &nbsp;&nbsp;&nbsp;&nbsp; 
-👩‍💻 Hi, I'm a sophomore software engineering student passionate about learning! Self-studying MERN stack has been my latest adventure. Excited to see where this journey takes me! 🚀
+👩‍💻 Hi, I'm a junior software engineering student passionate about learning! Self-studying MERN stack has been my latest adventure. Excited to see where this journey takes me! 🚀
 </p>
 </b> 
 
